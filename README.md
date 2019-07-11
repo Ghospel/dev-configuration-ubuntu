@@ -24,3 +24,6 @@
 ## chromium
 
 `sudo apt-get install chromium-browser`
+
+## oneliner (not tested)
+`sudo apt-get update && install build-essential git chromium-browser && snap install --classic code && wget https://release.gitkraken.com/linux/gitkraken-amd64.deb && dpkg -i gitkraken-amd64.deb`
