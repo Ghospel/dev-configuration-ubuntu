@@ -8,6 +8,9 @@
 
 `sudo apt-get install build-essential`
 
+## git
+`sudo apt-get install git`
+
 ## vscode
 
 `sudo snap install --classic code`
